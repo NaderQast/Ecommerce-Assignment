@@ -11,7 +11,7 @@ const Footer = () => {
     <footer className="bg-gray-800 text-white py-8 x-4 md:px-16 lg:px-24">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 ">
         <div>
-          <h3 className="text-xl font-semibold">E-commerce</h3>
+          <h3 className="text-xl font-semibold">Nader E-commerce</h3>
           <p className="mt-4 ">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi,
             eum! Sequi recusandae harum, repellat velit illo quis labore ratione
@@ -70,7 +70,7 @@ const Footer = () => {
       </div>
       <div className="mt-8 border-t border-gray-700 pt-4">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; 2024 Maid.cc All Right reserved</p>
+          <p>&copy; 2024 Company All Right reserved</p>
 
           <div className="flex space-x-4 mt-4 md:mt-0">
             <a href="" className="hover:underline">
