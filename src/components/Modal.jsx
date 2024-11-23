@@ -15,4 +15,4 @@ const Modal = ({isModalOpen,setIsModalOpen,children}) => {
   )
 }
 
-export default Modal
+export default Modal ;

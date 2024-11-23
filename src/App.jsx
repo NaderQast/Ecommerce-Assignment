@@ -8,6 +8,7 @@ import Checkout from "./Pages/Checkout";
 
 
 const App = () => {
+  
   return (
     <>
       <BrowserRouter>
